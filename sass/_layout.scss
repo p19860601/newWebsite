@@ -1,0 +1,48 @@
+.container{
+    max-width: 120rem;
+    margin: 0;
+    min-height: 50rem;
+}
+
+.header{
+    font-size: 1rem;
+    // height: 4rem;
+    margin-right: 1rem;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+////////////////////////////////////sign up container//////////////////////////
+.signup-here{
+    width: 250px;
+    // box-shadow: 0 0 3px 0 rgba(0,0,0,.1);
+    // background: hsla(195, 53%, 79%, 0.1);
+    
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    // box-shadow: lightgray;
+
+    
+  }
+.signup-here h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 3px #fff;
+               
+  }
+.input-box{
+    border-radius: 20px;
+    padding: 10px 0;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid lightgreen;
+    outline:none;
+    
+    justify-content: center;
+    text-align: center;
+      
+}
+///////////////////////////////////////end/////////////////////////////////////////
